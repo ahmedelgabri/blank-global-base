@@ -1,6 +1,6 @@
 # [blank](https://github.com/ahmedelgabri/blank) base
 
-[blank](https://github.com/ahmedelgabri/blank) blank base & normalize like styling
+[blank](https://github.com/ahmedelgabri/blank) base & normalize like styling
 
 ## Instalation
 
