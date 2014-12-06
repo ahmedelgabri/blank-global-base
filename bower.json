@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "blank-css base style & normalize like file",
   "main": "base.scss",
-  "homepage": "https://github.com/ahmedelgabri/blank-base",
+  "homepage": "https://github.com/ahmedelgabri/blank-global-base",
   "authors": [
     "Ahmed El Gabri <ahmed@gabri.me>"
   ],
